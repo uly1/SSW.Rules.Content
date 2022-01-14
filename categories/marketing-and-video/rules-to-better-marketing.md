@@ -51,6 +51,7 @@ index:
 - use-google-tag-manager
 - do-you-re-purpose-your-pillar-content-for-social-media
 - do-you-share-when-you-upgrade-an-application
+- do-you-know-how-to-use-a-perfect-prospects-pain-points-in-your-online-marketing
 
 ---
 
