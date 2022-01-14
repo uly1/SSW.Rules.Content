@@ -7,6 +7,7 @@ index:
 - do-you-ensure-your-application-pool-is-always-running
 - the-standard-procedure-to-troubleshoot-if-a-website-is-down
 - do-you-use-url-rewrite-to-redirect-http-to-https
+- do-you-disable-insecure-protocols
 
 ---
  
