@@ -72,6 +72,7 @@ index:
 - declare-variables-when-you-need-them
 - know-that-no-carriage-returns-without-line-feed
 - todo-tasks
+- do-you-look-for-duplicate-code
 
 ---
 
