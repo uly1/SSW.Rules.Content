@@ -8,6 +8,7 @@ index:
 - teams-naming-conventions
 - use-emojis
 - send-appointment-or-teams-meeting
+- create-recurring-teams-meetings-for-a-channel
 - do-you-make-your-team-meetings-easy-to-find
 - use-the-status-message-in-teams
 - do-you-know-the-right-format-to-show-your-phone-number
