@@ -14,7 +14,7 @@ index:
 - does-your-team-write-acceptance-tests-to-verify-acceptance-criteria
 - do-you-use-exploratory-testing-to-create-acceptance-tests
 - do-you-do-exploratory-testing
-- do-you-know-how-to-add-a-test-case-to-a-test-plan-in-microsoft-test-manager
+- add-test-case-to-test-plan-azure-test-plans
 - do-you-use-problem-steps-recorder
 - bdd
 - automated-ui-testing
