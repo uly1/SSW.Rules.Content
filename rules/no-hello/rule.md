@@ -94,7 +94,7 @@ Other reasons for this:
 Also, everyone likes breathing space, so try to give about a minute's warning for any call.
 
 :::greybox
-![Figure: Share to Teams button](share-to-teams-outlook-button.png)
+![Figure: Share to Teams button](share-to-teams-outlook.png)
 ![Figure: Using the Share to Teams option via Outlook](share-to-teams.png)
 :::
 :::good
