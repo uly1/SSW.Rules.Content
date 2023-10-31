@@ -21,6 +21,6 @@ A more secure and prudent approach involves delivering a message that simply sta
 
 <!--endintro-->
 
-::: good  
-![Figure: Good example - For security reasons, leave it open if it was an invalid username or password](../../assets/GoodLoginError.gif)  
+::: good 
+![Figure: Good example - For security reasons, leave it open if it was an invalid username or password](https://github.com/SSWConsulting/SSW.Rules.Content/assets/96504411/99d25f5c-c7e2-4959-a28d-8e7bee7f44a6) 
 :::
